@@ -26,13 +26,17 @@ This repository acts as a mono-repo showcasing the compiled assets and documenta
 
 ```text
 📦 RensPOS
- ┣ 📂 releases/
- ┃ ┗ 📜 RensPOS-v1.0.apk  <-- Download the compiled Android App here!
+ ┣ 📜 RenPOS.apk  <-- Download the compiled Android App here!
  ┗ 📜 README.md
 ```
 
 ## 📥 Direct Download
 
 Experience the app directly on your Android device!
-🔗 **[Download RensPOS v1.0 APK](./releases/RensPOS-v1.0.apk)**
+🔗 **[Download RensPOS APK (Direct Link)](https://github.com/anggarenn/RensPOS/raw/main/RenPOS.apk)**
 
+## 📸 Application Preview
+*(Place your application screenshots here to showcase the beautiful UI!)*
+
+---
+*Developed by **Anggaren** - Built with ❤️ for modern F&B businesses.*
