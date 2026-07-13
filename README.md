@@ -36,7 +36,8 @@ Experience the app directly on your Android device!
 🔗 **[Download RensPOS APK (Direct Link)](https://github.com/anggarenn/RensPOS/raw/main/RenPOS.apk)**
 
 ## 📸 Application Preview
-*(Place your application screenshots here to showcase the beautiful UI!)*
+<img width="389" height="852" alt="image" src="https://github.com/user-attachments/assets/1b23bf6a-e34a-42ad-a9fb-75d9d1cb87bc" />
+
 
 ---
 *Developed by **Anggaren** - Built with ❤️ for modern F&B businesses.*
